@@ -1,0 +1,16 @@
+.left-detail {
+    /* Adjusted styles for left detail sidebar to match UserProfile background color */
+    width: 250px;
+    background-color: #E6E6E6; /* Matched background color */
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+.menu-item {
+    /* Adjusted style for each menu item */
+    margin-bottom: 10px;
+    padding: 10px;
+    background-color: #E6E6E6; /* Matched background color */
+    /* Add more styles like borders, colors, etc., based on your design */
+    /* Ensure text color and other styles match the UserProfile for consistency */
+}

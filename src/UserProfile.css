@@ -1,0 +1,28 @@
+.user-profile-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #E6E6E6; /* Sample color based on screenshot */
+    padding: 10px;
+}
+
+.avatar-section {
+    display: flex;
+    align-items: center;
+}
+
+.avatar-section img {
+    border-radius: 50%; /* Assuming a circular avatar */
+    margin-right: 10px;
+}
+
+.navigation-menu ul {
+    list-style: none;
+    display: flex;
+    gap: 20px; /* Adjust as needed */
+}
+
+.navigation-menu a {
+    text-decoration: none;
+    color: #000; /* Change as per your color scheme */
+}

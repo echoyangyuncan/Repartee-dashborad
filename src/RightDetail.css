@@ -1,0 +1,20 @@
+#detailDate, #time2, .compare-button {
+    margin-bottom: 30px; /* Adjust this value based on new layout needs */
+}
+
+/* If LeftDetail was previously styled with .sidebar, update it */
+.left-detail {
+    width: 100%; /* Make it full width */
+    /* Adjust other properties as needed, like padding, margin, etc. */
+}
+
+/* Additional styles for the bottom section and right content, if needed */
+.bottom-section {
+    display: flex;
+    flex-direction: column; /* Stack elements vertically */
+}
+
+.right-content {
+    /* Styles for right content */
+}
+
